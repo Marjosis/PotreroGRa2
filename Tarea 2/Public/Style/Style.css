@@ -1,0 +1,22 @@
+h1 {
+    font-size: 42px;
+}
+
+h2 {
+    color:blue;
+    font-size: 30px;
+}
+
+ul {
+    color: chartreuse;
+    font-size: 21px;
+}
+ol {
+    color: darkgreen;
+    font-size: 21px;
+}
+
+p,a { 
+color: red;
+font-size: 21px;
+}
