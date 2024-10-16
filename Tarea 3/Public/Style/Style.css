@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Agdasima:wght@400;700&family=Bebas+Neue&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/* Fuentes 
+font-family: "Bebas Neue", sans-serif;
+font-family: "Agdasima", sans-serif;
+font-family: "Kanit", sans-serif;
+
+*/
+h1 {
+    margin:  30px 40px;
+    font-family: "Bebas Neue", sans-serif;
+     font-size: 42px;
+     border-style: ridge;
+     border-color: darkorange;
+     padding-top: 20px;
+}
+h1, #colornaranja {color: orange;}
+
+h2 {
+    color:blue;
+    font-size: 30px;
+}
+
+ul {
+    color: chartreuse;
+    font-size: 21px;
+    font-family: "Kanit", sans-serif;
+}
+ol {
+    color: green;
+    font-size: 21px;
+    font-family: "Kanit", sans-serif;
+}
+
+p,a { 
+color: red;
+font-size: 21px;
+font-family: "Agdasima", sans-serif;
+border-style: dashed;
+border-color: darkblue;
+}
+body {
+    background-color: rgb(193, 214, 207);
+}
